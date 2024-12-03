@@ -37,7 +37,6 @@ KDO 底层可以对接各类私有云、公有云、Kubernetes 等基础设施�
 
 同时 KDO 对应用整体进行了包装和抽象，定义出了应用抽象模型。该模型包含应用运行所需的全部运行定义，与底层技术和概念隔离。开发者可以基于该模型实现能力的复用和共享，如组件一键发布、安装、升级等。
 
-有关 KDO 架构的更多详细信息，请参阅 [KDO设计思想](https://www.KDO.com/docs/quick-start/architecture/design-concept)。
 
 
 ## 目录
