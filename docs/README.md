@@ -1,11 +1,12 @@
 # kube-do
 
 *KDO*平台基于云原生技术构建的容器云平台
+![平台介绍](imgs/start.gif)
 
 
 ## kdo 是什么
 
-kdo 核心100%开源，Serverless体验，不需要懂 Kubernetes 也能轻松管理容器化应用，平滑无缝过渡到 Kubernetes，适合私有部署的一体化应用管理平台。
+kdo 核心100%开源，Serverless体验，不需要懂 Kubernetes 也能轻松管理容器化应用，可以从传统模式平滑无缝过渡到 Kubernetes，适合私有部署的一体化应用管理平台。
 
 ### 亮点
 
