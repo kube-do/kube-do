@@ -41,5 +41,6 @@ KDO 底层可以对接各类私有云、公有云、Kubernetes 等基础设施�
 
 
 ## 目录
+kdo平台的操作界面分为管理员和开发者，只有集群管理员可以访问管理员界面，其他人员都只能访问开发者界面
 1. **devops平台** [devops平台](devops/index.md)
 2. **可观察平台** [可观察平台](observability/index.md)
