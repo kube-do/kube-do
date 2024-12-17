@@ -27,6 +27,9 @@ kdo CI/CD 是基于 [Tekton](https://tekton.dev/docs/) 的 CI/CD 工具，它可
 ### 应用项目
 - 应用项目是指应用系统集合，它里面包含多种资源，可能包括多个环境和多个应用
 
+[应用项目详情](project/index.md)
+
+
 ### 应用环境
   
 
