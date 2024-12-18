@@ -1,11 +1,3 @@
----
-title: 代码管理
-description: 介绍 Pipeline 应用插件的代码管理
-keywords:
-- 介绍 Pipeline 应用插件的代码管理
-- Intro GitLab Pipeline Plugin Code Management
----
-
 代码管理支持 GitLab 分支的查看，并提供持续集成功能。平台的持续集成流水线涵盖：编译构建、代码检查、生成镜像制品、通知Rainbond平台部署，能大幅降低开发人员工作负担，持续提升代码质量与开发效率。
 
 * 多个应用服务的 GitLab 分支管理以及最近提交信息。
